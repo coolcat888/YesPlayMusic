@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://vercel.com/coolcat888/1netease-cloud-music-api/NibWMpD6iHfcX2ztiAZ6wr32auSu*"
+    }
+  ]
+}
